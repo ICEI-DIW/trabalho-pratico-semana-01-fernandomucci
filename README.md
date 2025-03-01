@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome:Fernando Mucci Sena
+Matricula:885731
 
 ## Tela de inspeção com navegador
+<img src="instagram.png">
 
 
 ## Tela de projeto no Replit
+<img src="replit.png">
 
